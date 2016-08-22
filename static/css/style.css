@@ -1,0 +1,25 @@
+.navbar {
+  border-radius: 0px;
+}
+
+.section {
+  padding: 100px;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.landing-img {
+  background: url('/static/img/landing.jpeg');
+  background-size: cover;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0px;
+}
+
+.landing {
+  padding: 25vh 0;
+}
